@@ -1,4 +1,4 @@
-This project is a GR engine built on pyhton which given a metric, computes the following:
+This project is a GR engine built on python which given a metric, computes the following:
 
 -Christofell symbols
 -Riemann curvature Tensor
